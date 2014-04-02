@@ -1,0 +1,13 @@
+D:\WinProjects\TrackingControl\STC.BusinessProcess\STC.BusinessProcess\STC.BusinessProcess\bin\Debug\STC.BusinessProcess.dll
+D:\WinProjects\TrackingControl\STC.BusinessProcess\STC.BusinessProcess\STC.BusinessProcess\bin\Debug\STC.BusinessProcess.pdb
+D:\WinProjects\TrackingControl\STC.BusinessProcess\STC.BusinessProcess\STC.BusinessProcess\obj\Debug\STC.BusinessProcess.dll
+D:\WinProjects\TrackingControl\STC.BusinessProcess\STC.BusinessProcess\STC.BusinessProcess\obj\Debug\STC.BusinessProcess.pdb
+D:\WinProjects\TrackingControl\STC.BusinessProcess\STC.BusinessProcess\bin\Debug\STC.BusinessProcess.dll
+D:\WinProjects\TrackingControl\STC.BusinessProcess\STC.BusinessProcess\bin\Debug\STC.BusinessProcess.pdb
+D:\WinProjects\TrackingControl\STC.BusinessProcess\STC.BusinessProcess\bin\Debug\STC.DataAccess.dll
+D:\WinProjects\TrackingControl\STC.BusinessProcess\STC.BusinessProcess\bin\Debug\STC.Entity.dll
+D:\WinProjects\TrackingControl\STC.BusinessProcess\STC.BusinessProcess\bin\Debug\STC.DataAccess.pdb
+D:\WinProjects\TrackingControl\STC.BusinessProcess\STC.BusinessProcess\bin\Debug\STC.Entity.pdb
+D:\WinProjects\TrackingControl\STC.BusinessProcess\STC.BusinessProcess\obj\Debug\STC.BusinessProcess.csprojResolveAssemblyReference.cache
+D:\WinProjects\TrackingControl\STC.BusinessProcess\STC.BusinessProcess\obj\Debug\STC.BusinessProcess.dll
+D:\WinProjects\TrackingControl\STC.BusinessProcess\STC.BusinessProcess\obj\Debug\STC.BusinessProcess.pdb

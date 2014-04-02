@@ -1,0 +1,8 @@
+D:\WinProjects\TrackingControl\STC.Entity\STC.Entity\STC.Entity\bin\Debug\STC.Entity.dll
+D:\WinProjects\TrackingControl\STC.Entity\STC.Entity\STC.Entity\bin\Debug\STC.Entity.pdb
+D:\WinProjects\TrackingControl\STC.Entity\STC.Entity\STC.Entity\obj\Debug\STC.Entity.dll
+D:\WinProjects\TrackingControl\STC.Entity\STC.Entity\STC.Entity\obj\Debug\STC.Entity.pdb
+D:\WinProjects\TrackingControl\STC.Entity\STC.Entity\bin\Debug\STC.Entity.dll
+D:\WinProjects\TrackingControl\STC.Entity\STC.Entity\bin\Debug\STC.Entity.pdb
+D:\WinProjects\TrackingControl\STC.Entity\STC.Entity\obj\Debug\STC.Entity.dll
+D:\WinProjects\TrackingControl\STC.Entity\STC.Entity\obj\Debug\STC.Entity.pdb

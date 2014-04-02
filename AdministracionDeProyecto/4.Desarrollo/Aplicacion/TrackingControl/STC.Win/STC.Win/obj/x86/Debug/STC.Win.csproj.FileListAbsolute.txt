@@ -1,0 +1,16 @@
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\bin\Debug\STC.Win.exe
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\bin\Debug\STC.Win.pdb
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\obj\x86\Debug\STC.Win.Properties.Resources.resources
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\obj\x86\Debug\STC.Win.csproj.GenerateResource.Cache
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\obj\x86\Debug\STC.Win.exe
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\obj\x86\Debug\STC.Win.pdb
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\obj\x86\Debug\TrackingControl.Login.resources
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\obj\x86\Debug\TrackingControl.Impresion.resources
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\obj\x86\Debug\TrackingControl.opeAdministracion.resources
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\obj\x86\Debug\TrackingControl.opeAlmacen.resources
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\obj\x86\Debug\TrackingControl.opeBolseo.resources
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\obj\x86\Debug\TrackingControl.opeCalidad.resources
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\obj\x86\Debug\TrackingControl.opeCargaProgramacionPedido.resources
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\obj\x86\Debug\TrackingControl.opeCorrugado.resources
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\obj\x86\Debug\TrackingControl.opeProduccion.resources
+D:\WinProjects\TrackingControl\STC.Win\STC.Win\obj\x86\Debug\TrackingControl.mdiContainer.resources
