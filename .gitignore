@@ -1,0 +1,11 @@
+# git ignore file
+AdministracionDeProyecto/4.Desarrollo/Aplicacion/TrackingControl/STC.BusinessProcess/STC.BusinessProcess/bin/
+AdministracionDeProyecto/4.Desarrollo/Aplicacion/TrackingControl/STC.BusinessProcess/STC.BusinessProcess/obj/
+AdministracionDeProyecto/4.Desarrollo/Aplicacion/TrackingControl/STC.DataAccess/STC.DataAccess/bin/
+AdministracionDeProyecto/4.Desarrollo/Aplicacion/TrackingControl/STC.DataAccess/STC.DataAccess/obj/
+AdministracionDeProyecto/4.Desarrollo/Aplicacion/TrackingControl/STC.Entity/STC.Entity/bin/
+AdministracionDeProyecto/4.Desarrollo/Aplicacion/TrackingControl/STC.Entity/STC.Entity/obj/
+AdministracionDeProyecto/4.Desarrollo/Aplicacion/TrackingControl/STC.Win/STC.Win/bin/
+AdministracionDeProyecto/4.Desarrollo/Aplicacion/TrackingControl/STC.Win/STC.Win/obj/
+solSTC.sln
+solSTC.suo
